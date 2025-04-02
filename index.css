@@ -1,0 +1,86 @@
+/* .header{
+    display:flex;
+    justify-content: space-between;
+    border: 1px solid black;
+}
+.logo{
+    width: 200px;
+}
+.nav-items > ul{
+    padding-top: 50px;
+    
+}
+.nav-items > ul{
+    font-size: 24px;
+    display: flex;
+    list-style-type:none; ;
+}
+.nav-items > ul > li{
+    padding: 10px;
+    margin: 10px;
+}
+.res-container{
+    display: flex;
+    flex-wrap: wrap;
+}
+.res-card{
+    padding: 5px;
+    width: 200px;
+    
+    margin: 5px;
+}
+.res-card:hover{
+    cursor: pointer;
+    border: 1px solid black;
+}
+.Search{
+    padding: 10px;
+}
+.res-logo{
+    margin: 5px;
+    width: 190px;
+}
+.rese-logo{
+    margin: 5px;
+    width: 190px;
+    height: 128px;
+}
+.rese-card{
+    padding: 5px;
+    width: 200px;
+    height: 300px;
+    margin: 5px;
+}
+.rese-card:hover{
+    cursor: pointer;
+    border: 1px solid black;
+}
+.filter-btn{
+    margin: 10px;
+    cursor: pointer;
+}
+.Shinner-container{
+    display:flex;
+    flex-wrap: wrap;
+}
+.Shimmer-cards{
+    height: 400px;
+    width:200px;
+     background-color:#f0f0f0;
+     margin:20px;
+}
+.login{
+    padding: 0 20px;
+    cursor: pointer;
+}
+.filter{
+    display: flex;
+}
+.search-box{
+    margin-top: 10px;
+}
+.user-card{
+    padding: 10px;
+    border:1px solid black ;
+} */
+@import "tailwindcss";
